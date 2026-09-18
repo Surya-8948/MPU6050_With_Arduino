@@ -1,7 +1,11 @@
 # MPU6050 with Arduino
 
 A simple Arduino project to interface the **MPU6050 6-Axis Motion Sensor** using the **MPU6050_tockn** library. This project reads the X, Y, and Z orientation angles and displays them on the Serial Monitor. The accompanying document introduces the MPU6050, its pinout, DMP, I²C communication, key specifications, applications, and a basic Arduino example. 
+## 📷 Project Image
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Surya-8948/MPU6050_With_Arduino/main/Mpu6050_With_Arduino.png" alt="MPU6050 with Arduino" width="700">
+</p>
 ---
 
 ## 📌 Features
